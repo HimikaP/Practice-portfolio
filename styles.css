@@ -1,0 +1,23 @@
+*{
+    border-style:none;
+    background-color: #F5E9E2;
+}
+
+hr{
+    border-color: #E3B5A4;
+    border-width:5px;
+    border-style:dotted none none;
+    width:10%;
+}
+h1{
+    color: #d44d5c;
+    border-width: 10px 0 0 0 ;
+}
+
+.girl-coder{
+    width:10rem;
+}
+input, textarea{
+    border-style:solid;
+    border-color:black;
+}
